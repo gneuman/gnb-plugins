@@ -7,7 +7,6 @@ description: >
   diseñadores, devs y stakeholders.
   Use when: "design system", "style guide", "tokens del proyecto", "página de componentes",
   "/admin/design-system", "gnb-design-system".
-related: [voz-gnb, customize-block]
 ---
 
 # GNB Design System

@@ -7,7 +7,7 @@ description: >
   features dentro de proyectos existentes.
   Use when: "PRD", "convertir idea en spec", "necesito un PRD", "quiero construir",
   "nueva funcionalidad", "/idea-to-prd", "gnb-idea-to-prd".
-related: [gnb-prd-to-issues, customize-block]
+related: [gnb-prd-to-issues]
 ---
 
 # GNB Idea to PRD

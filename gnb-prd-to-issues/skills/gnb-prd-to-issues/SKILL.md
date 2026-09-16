@@ -9,7 +9,7 @@ description: >
   Use when: "convertir PRD a issues", "desglosar este PRD", "crear tickets", "vertical slices",
   "tracer bullets", "reescribir issue", "need clarification", "este ticket no se entiende",
   "/prd-to-issues", "gnb-prd-to-issues".
-related: [gnb-idea-to-prd, customize-block]
+related: [gnb-idea-to-prd]
 ---
 
 # GNB PRD to Issues

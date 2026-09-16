@@ -7,7 +7,7 @@ description: >
   — no genera contenido público. Para contenido público usar gnb-call-to-content.
   Use when: "voice of customer", "VoC doc", "qué dijo el cliente", "saca insights del
   discovery", "objeciones del cliente", "/call-to-voc", "gnb-call-to-voc".
-related: [gnb-call-to-content, customize-block]
+related: [gnb-call-to-content]
 ---
 
 # GNB Call to VoC

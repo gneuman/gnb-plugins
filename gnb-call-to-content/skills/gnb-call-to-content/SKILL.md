@@ -7,7 +7,7 @@ description: >
   de publicación o pegar manualmente.
   Use when: "convierte esta llamada en contenido", "repurpose del Zoom", "saca contenido del
   Loom", "transcripción a posts", "/call-to-content", "gnb-call-to-content".
-related: [voz-gnb, customize-block, gnb-call-to-voc]
+related: [gnb-call-to-voc]
 ---
 
 # GNB Call to Content
