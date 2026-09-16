@@ -1,0 +1,14 @@
+name = "podcast-guesting"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+
+# El tablero exige Cloudflare Access. Ponlo en "0" SOLO para desarrollo local:
+# en producción, sin Access cualquiera con la URL vería el pipeline.
+[vars]
+REQUIERE_ACCESS = "1"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "podcast-guesting"
+# Reemplaza con el id que devuelve `wrangler d1 create podcast-guesting`.
+database_id = "REEMPLAZAR_CON_TU_DATABASE_ID"

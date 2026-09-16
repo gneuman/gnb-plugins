@@ -1,0 +1,21 @@
+{
+  "name": "gnb-prd-to-issues",
+  "description": "Rompe un PRD en issues independientemente tomables usando vertical slices (tracer bullets). Output markdown universal — adáptalo a Linear, Jira, GitHub Projects, Notion o el tracker que uses.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gabriel Neuman / GNB Labs",
+    "email": "soy@gabrielneuman.com",
+    "url": "https://gabrielneuman.com"
+  },
+  "homepage": "https://gabrielneuman.com/sistemas/skills/prd-to-issues/",
+  "license": "MIT",
+  "keywords": [
+    "issues",
+    "tickets",
+    "backlog",
+    "vertical-slice",
+    "tracer-bullets",
+    "planning"
+  ],
+  "repository": "https://github.com/gneuman/gnb-plugins"
+}

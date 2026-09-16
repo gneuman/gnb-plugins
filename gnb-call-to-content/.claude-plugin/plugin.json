@@ -1,0 +1,21 @@
+{
+  "name": "gnb-call-to-content",
+  "description": "Convierte una llamada grabada (Zoom, Loom, podcast, webinar) en un plan de contenido distribuible: posts LinkedIn, hilo Twitter, carrusel, imágenes y correos. Output JSON listo para sistema de publicación.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gabriel Neuman / GNB Labs",
+    "email": "soy@gabrielneuman.com",
+    "url": "https://gabrielneuman.com"
+  },
+  "homepage": "https://gabrielneuman.com/sistemas/skills/call-to-content/",
+  "license": "MIT",
+  "keywords": [
+    "repurpose",
+    "content",
+    "linkedin",
+    "twitter",
+    "carousel",
+    "transcripts"
+  ],
+  "repository": "https://github.com/gneuman/gnb-plugins"
+}

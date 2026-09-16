@@ -1,0 +1,21 @@
+{
+  "name": "gnb-design-system",
+  "description": "Scaffolder de página /admin/design-system para proyectos Next.js + Tailwind + shadcn. Tokens, tipografía, componentes base y patrones de dominio en una sola ruta visible.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gabriel Neuman / GNB Labs",
+    "email": "soy@gabrielneuman.com",
+    "url": "https://gabrielneuman.com"
+  },
+  "homepage": "https://gabrielneuman.com/sistemas/skills/design-system/",
+  "license": "MIT",
+  "keywords": [
+    "design-system",
+    "shadcn",
+    "tailwind",
+    "nextjs",
+    "tokens",
+    "scaffolder"
+  ],
+  "repository": "https://github.com/gneuman/gnb-plugins"
+}

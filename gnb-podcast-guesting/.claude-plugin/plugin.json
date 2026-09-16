@@ -1,0 +1,28 @@
+{
+  "name": "gnb-podcast-guesting",
+  "version": "0.1.0",
+  "description": "Sistema de prospección de podcasts para conseguir apariciones como invitado: encuentra shows que califican, escribe el pitch personalizado, extrae los coinvitados previos para alianzas tibias, y mide el pipeline. Funciona sin base de datos; si hay CRM, sincroniza.",
+  "author": {
+    "name": "GNB Labs / Gabriel Neuman",
+    "url": "https://gabrielneuman.com",
+    "email": "soy@gabrielneuman.com"
+  },
+  "homepage": "https://gabrielneuman.com/sistemas/skills/podcast-guesting/",
+  "license": "MIT",
+  "keywords": [
+    "podcast",
+    "guesting",
+    "podcast-outreach",
+    "prospeccion",
+    "alianzas",
+    "marca-personal",
+    "autoridad",
+    "spanish-mx",
+    "LATAM",
+    "consultores",
+    "agencias",
+    "youtube-api",
+    "kpi"
+  ],
+  "repository": "https://github.com/gneuman/gnb-plugins"
+}

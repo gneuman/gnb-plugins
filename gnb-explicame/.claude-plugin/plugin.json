@@ -1,0 +1,25 @@
+{
+  "name": "gnb-explicame",
+  "version": "0.1.0",
+  "description": "Explicador visual de una pieza. Clasifica la duda y entrega la forma más chica que la resuelve: call tree para orden, diff para cambio, árbol para forma, tabla para decisión, Mermaid para flujo, pseudocódigo para lógica. Una pieza por respuesta, HTML solo como último recurso. En español de México.",
+  "author": {
+    "name": "GNB Labs / Gabriel Neuman",
+    "url": "https://gabrielneuman.com",
+    "email": "soy@gabrielneuman.com"
+  },
+  "homepage": "https://gabrielneuman.com/sistemas/skills/explicame/",
+  "repository": "https://github.com/gneuman/gnb-plugins",
+  "license": "MIT",
+  "keywords": [
+    "explicacion",
+    "diagramas",
+    "mermaid",
+    "visual",
+    "call-tree",
+    "diff",
+    "spanish-mx",
+    "es-MX",
+    "docencia",
+    "onboarding"
+  ]
+}

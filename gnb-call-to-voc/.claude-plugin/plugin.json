@@ -1,0 +1,21 @@
+{
+  "name": "gnb-call-to-voc",
+  "description": "Convierte una llamada de discovery o sales en un Voice-of-Customer doc estructurado: objeciones literales, lenguaje del cliente, jobs-to-be-done, pain points cuantificados, frases para landing pages. Uso interno, no público.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Gabriel Neuman / GNB Labs",
+    "email": "soy@gabrielneuman.com",
+    "url": "https://gabrielneuman.com"
+  },
+  "homepage": "https://gabrielneuman.com/sistemas/skills/call-to-voc/",
+  "license": "MIT",
+  "keywords": [
+    "voice-of-customer",
+    "voc",
+    "discovery",
+    "customer-research",
+    "jtbd",
+    "objections"
+  ],
+  "repository": "https://github.com/gneuman/gnb-plugins"
+}

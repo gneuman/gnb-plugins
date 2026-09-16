@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json.schemastore.org/claude-plugin-marketplace",
+  "name": "gnb-labs",
+  "owner": {
+    "name": "GNB Labs / Gabriel Neuman",
+    "url": "https://gabrielneuman.com",
+    "email": "soy@gabrielneuman.com"
+  },
+  "metadata": {
+    "description": "Los siete skills gratis de GNB Labs para Claude Code, en español de México y licencia MIT: explicame, design-system, idea-to-prd, prd-to-issues, call-to-content, call-to-voc y podcast-guesting.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gnb-design-system",
+      "category": "design",
+      "description": "Scaffolder de página /admin/design-system para Next.js + Tailwind + shadcn. Tokens, primitivos y patrones de dominio en una ruta visible al equipo.",
+      "source": "./gnb-design-system",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/design-system/"
+    },
+    {
+      "name": "gnb-idea-to-prd",
+      "category": "planning",
+      "description": "Convierte una idea suelta en un PRD estructurado listo para construir. Entrevista guiada en 10 fases con docs duales (humanos + agentes).",
+      "source": "./gnb-idea-to-prd",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/idea-to-prd/"
+    },
+    {
+      "name": "gnb-prd-to-issues",
+      "category": "planning",
+      "description": "Rompe un PRD en issues independientemente tomables usando vertical slices. Output markdown universal — adaptable a Linear, Jira, GitHub, Notion.",
+      "source": "./gnb-prd-to-issues",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/prd-to-issues/"
+    },
+    {
+      "name": "gnb-call-to-content",
+      "category": "content",
+      "description": "Convierte una llamada grabada (podcast, webinar, Loom, live) en plan de contenido: LinkedIn, Twitter, carrusel, imágenes, correos. Output JSON estructurado.",
+      "source": "./gnb-call-to-content",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/call-to-content/"
+    },
+    {
+      "name": "gnb-call-to-voc",
+      "category": "research",
+      "description": "Convierte una llamada de discovery/sales en un Voice-of-Customer doc estructurado: objeciones literales, lenguaje del cliente, JTBD, pain points cuantificados. Uso interno.",
+      "source": "./gnb-call-to-voc",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/call-to-voc/"
+    },
+    {
+      "name": "gnb-podcast-guesting",
+      "category": "marketing",
+      "description": "Consigue apariciones en podcasts: encuentra shows que califican por tamaño, formato y actividad; escribe el pitch personalizado a un episodio concreto; extrae los coinvitados previos del show para alianzas tibias; y mide el pipeline. Funciona sin base de datos.",
+      "source": "./gnb-podcast-guesting",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/podcast-guesting/"
+    },
+    {
+      "name": "gnb-explicame",
+      "category": "productivity",
+      "description": "Explicador visual de una pieza. Clasifica la duda y entrega la forma más chica que la resuelve: call tree para orden, diff para cambio, árbol para forma, tabla para decisión, Mermaid para flujo, pseudocódigo para lógica. Una pieza por respuesta, HTML solo como último recurso. En español de México.",
+      "source": "./gnb-explicame",
+      "homepage": "https://gabrielneuman.com/sistemas/skills/explicame/"
+    }
+  ]
+}
